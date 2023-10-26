@@ -1,0 +1,5 @@
+contoba.petitbourg.online
+
+file_server {
+    root /usr/share/caddy
+}
